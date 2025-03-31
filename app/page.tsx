@@ -470,9 +470,7 @@ export default function Portfolio() {
                     TypeScript
                   </span>
 
-                  <span className="px-2 py-1 bg-[#1a1a1a] text-green-400 text-xs rounded">
-                    Tailwind CSS
-                  </span>
+                
 
                   <span className="px-2 py-1 bg-[#1a1a1a] text-green-400 text-xs rounded">
                     Nodemailer
